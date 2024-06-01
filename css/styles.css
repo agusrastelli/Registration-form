@@ -163,7 +163,7 @@ option:not(:disabled) {
     color: #464444;
 }
 
-#zipcode {
+#zip-code {
     width: 50%;
 }
 
