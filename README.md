@@ -8,10 +8,10 @@ HTML, CSS
 
 ### Extra Features
 Placeholder Text:
-    * Placeholder text has been added to all text inputs and the textarea element.
-    * Uses the required attribute to add HTML5 Validation for required fields.
+    - Placeholder text has been added to all text inputs and the textarea element.
+    - Uses the required attribute to add HTML5 Validation for required fields.
     
 Design and Styling:
-    * Change the background color for at least ONE of the main sections of the site.
-    * Uses CSS transitions for focus states.
+    - Change the background color for at least ONE of the main sections of the site.
+    - Uses CSS transitions for focus states.
        
